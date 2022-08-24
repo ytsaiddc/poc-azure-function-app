@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Ddc.PublicAffairs.DataManagement.Applications.KennanAzureFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7111",
+      "launchBrowser": false
+    }
+  }
+}
